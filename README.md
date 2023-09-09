@@ -1,7 +1,3 @@
-# Marketing_Campaign_Analytics
-
-Here is a rewrite of the project overview using visually formatted GitHub markdown:
-
 # Direct Marketing Campaign Optimization
 
 ## Project Overview
